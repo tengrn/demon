@@ -13,7 +13,7 @@ if st.button("calcul"):
         st.warning("maigre")
         
     elif 18.5<IMC<25:
-        st.success("poids norma")
+        st.success("poids normal")
         
     elif 25 <IMC<30:
         st.warning("surpoids")
